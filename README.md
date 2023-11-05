@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucassilvao&theme=onedark" alt="lucassilvao" /></a> </p>
 
-- 🌱 Estou atualmente estudano **Java**
+- 🌱 Estou atualmente estudando **Java**
 
 - 📫 E-mail: **lucas.oliveiraaa20@gmail.com**
 
