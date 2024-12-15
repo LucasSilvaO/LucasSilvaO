@@ -88,13 +88,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/AWS_Lambda_logo.svg/1200px-AWS_Lambda_logo.svg.png" alt="lambda" width="40" height="40"/>
+    <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="lambda" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/route53/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Amazon_Route_53_logo.svg/1200px-Amazon_Route_53_logo.svg.png" alt="route53" width="40" height="40"/>
+    <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" alt="route53" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="s3" width="40" height="40"/>
+    <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" alt="s3" width="40" height="40"/>
   </a>
 </p>
 
